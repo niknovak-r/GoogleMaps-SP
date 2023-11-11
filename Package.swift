@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMaps.xcframework.zip",
-            checksum: "825102248e774c68c330cad1873834864ad152441bb36effbcb23993d1e1da4a"
+            url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMaps.xcframework.zip",
+            checksum: "f9782ba73280b07996b02ece9ba6030a6656c585e459915f4fd30608b9128659"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsBase.xcframework.zip",
-            checksum: "485e5123233f682befcd6e9e13c7452abdcbc2992dedad1bbb9326a541af5e04"
+            url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsBase.xcframework.zip",
+            checksum: "d6ac56d191f44d3b0fba86ea730907e5a9150ad3d1539245d7a1798603bde067"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsCore.xcframework.zip",
-            checksum: "77123c2d929d22502498e0bf1581f32355e4bd1e8211ef288c7869e981051002"
+            url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsCore.xcframework.zip",
+            checksum: "4bed28b0d38645f5f9e21d2a252bb0165d53b288f7e1ace6f6b0aae308620853"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "e6290834d28f6a3ead9180bf83f85b4fe5954e1c20efd6f5eaffafbcbfc6a390"
+            url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsM4B.xcframework.zip",
+            checksum: "0a98ff01d3a5c29675c10057a1adc58e81b67a486084e7b47887690ecc9a02fd"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GooglePlaces.xcframework.zip",
-            checksum: "f03f9ea1e7357df6b42b41e8fe8ca9c7b28c05f9a0305dab4997cc8b04d61503"
+            url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GooglePlaces.xcframework.zip", // The actual GooglePlaces framework version is 8.2.1
+            checksum: "59294a2da8484b04e0449fa7533735af74bc551493b52cf95a1780c3a24b5b53"
         )
     ]
 )
