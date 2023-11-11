@@ -42,27 +42,27 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMaps.xcframework.zip",
-            checksum: "f9782ba73280b07996b02ece9ba6030a6656c585e459915f4fd30608b9128659"
+            checksum: "48a560835a12c7b2648d1f0979b122319623973800c2f1166a38b755bc9ca6bf"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsBase.xcframework.zip",
-            checksum: "d6ac56d191f44d3b0fba86ea730907e5a9150ad3d1539245d7a1798603bde067"
+            checksum: "e7b7a1368637234f7d15a2751862c6dc5fc7f12d0439517b7aa1d76f371ea25c"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
             url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsCore.xcframework.zip",
-            checksum: "4bed28b0d38645f5f9e21d2a252bb0165d53b288f7e1ace6f6b0aae308620853"
+            checksum: "510052228dd25a475605fb62b628871efdfe582a577c020ba7dfd3a9c6559066"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
             url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "0a98ff01d3a5c29675c10057a1adc58e81b67a486084e7b47887690ecc9a02fd"
+            checksum: "ad76394d41614d767753ec388c6f662d3afcc48c1a2a3b5c1e448a69091557bc"
         ),
         .binaryTarget(
             name: "GooglePlaces",
             url: "https://github.com/niknovak-r/GoogleMaps-SP/releases/download/8.2.0/GooglePlaces.xcframework.zip", // The actual GooglePlaces framework version is 8.2.1
-            checksum: "59294a2da8484b04e0449fa7533735af74bc551493b52cf95a1780c3a24b5b53"
+            checksum: "7e4e0f3c8ada716bfc186616a2f4bebb127788bcf625d2e427eaf0b82d0d0390"
         )
     ]
 )
